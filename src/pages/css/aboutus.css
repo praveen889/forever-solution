@@ -1,0 +1,51 @@
+.about-banner{
+    text-align: center;
+    background-color: #E8EAF6;
+    padding: 4rem;
+}
+.about-banner-heading{
+    font-size: 3rem;
+}
+.about-banner-para{
+    font-size: 1.2rem;
+    font-weight: 300;
+}
+.about-description{
+    display: flex;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+.description-image{
+    width: 40%;
+    margin-left: 7.5%;
+    margin-right: 2.5%;
+}
+.team-image{
+    width: 100%;
+    border-radius: 10px;
+}
+.about-main-description{
+    width: 40%;
+    margin-left: 2.5%;
+    margin-right: 7.5%;
+}
+.description-heading{
+    font-size: 3rem;
+    margin-bottom: 0;
+}
+.description-para{
+    color: #424242;
+    margin-top: 0;
+    font-size: 1.2rem;
+    font-weight: 300;
+}
+.main-description-points{
+    display: flex;
+    gap: 10px;
+    font-size: 1.2rem;
+    font-weight: 300;
+}
+.description-heading-two{
+    font-size: 2rem;
+    margin-bottom: 0;
+}
