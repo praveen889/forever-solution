@@ -11,7 +11,7 @@ import VideoService from '../assets/images/video.svg'
 function Home() {
   return (
     <div className='main-home-div'>
-        {/* <Navbar/> */}
+        <Navbar/>
         <div className='home-start-div'>
             <div className='banner-left'>
                 <h1 className='banner-heading'>Experience the Future of Living</h1>
@@ -107,7 +107,7 @@ function Home() {
             <p className='home-last-para'>Let's build a smarter, more comfortable, and secure environment for you and your family.</p>
             <a className='home-last-link'>Get Your Free Consultation Today</a>
         </div>
-        {/* <Footer/> */}
+        <Footer/>
     </div>
   )
 }
